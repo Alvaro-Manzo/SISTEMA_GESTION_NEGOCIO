@@ -1,4 +1,4 @@
-# Sistema de Gestión de Negocios Profesional v1.0
+# Sistema de Gestión de Negocios Profesional v2.0 
 
 Sistema empresarial avanzado de punto de venta con gestión de inventario, análisis de ventas, reportes y control total de operaciones. Basado en arquitectura modular con almacenamiento JSON.
 
@@ -136,7 +136,7 @@ El sistema utiliza `inventory.json` como archivo de configuración principal:
 
 1. Clona o descarga este repositorio:
 ```bash
-git clone <url-repositorio>
+git clone <https://github.com/Alvaro-Manzo/SISTEMA_GESTION_NEGOCIO.git>
 cd HAMBURGUESAS
 ```
 
