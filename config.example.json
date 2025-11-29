@@ -1,0 +1,17 @@
+{
+  "business_name": "Your Business Name",
+  "currency": "$",
+  "users": {
+    "admin": {
+      "admin_username": "admin_password"
+    },
+    "regular": {
+      "user_username": "user_password"
+    }
+  },
+  "menu": {
+    "Product 1": 10.00,
+    "Product 2": 20.00,
+    "Product 3": 15.00
+  }
+}
